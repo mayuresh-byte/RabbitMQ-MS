@@ -1,1 +1,0 @@
-# RabbitMQ-MS
